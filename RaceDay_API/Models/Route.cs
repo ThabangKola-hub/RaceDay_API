@@ -22,3 +22,4 @@ namespace RaceDay_API.Models
         public Event? Event { get; set; }
     }
 }
+//Add Route model
