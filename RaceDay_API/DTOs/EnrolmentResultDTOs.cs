@@ -40,3 +40,4 @@ namespace RaceDay_API.DTOs
         public int Position { get; set; }
     }
 }
+// EnrolmentResultDTOs
