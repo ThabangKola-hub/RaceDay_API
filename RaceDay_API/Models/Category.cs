@@ -22,3 +22,4 @@ namespace RaceDay_API.Models
         public ICollection<Enrolment> Enrolments { get; set; } = new List<Enrolment>();
     }
 }
+//Updated Category model
