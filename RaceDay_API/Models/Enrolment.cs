@@ -22,3 +22,4 @@ namespace RaceDay_API.Models
         public Result? Result { get; set; }
     }
 }
+//Add Enrolment model
