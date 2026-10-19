@@ -28,3 +28,4 @@ namespace RaceDay_API.DTOs
         public int OrganiserId { get; set; }
     }
 }
+// EventDTOs
