@@ -32,3 +32,4 @@ namespace RaceDay_API.DTOs
         public string Role { get; set; } = string.Empty;
     }
 }
+//AuthDto
