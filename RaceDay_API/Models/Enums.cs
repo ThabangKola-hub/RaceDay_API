@@ -5,3 +5,4 @@
     public enum EventStatus { Scheduled, Cancelled, Completed }
     public enum EnrolmentStatus { Active, Cancelled }
 }
+//Updated Enums
