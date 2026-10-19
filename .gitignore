@@ -1,0 +1,6 @@
+[Bb]in/
+[Oo]bj/
+*.db
+*.db-shm
+*.db-wal
+.vs/
