@@ -1,4 +1,5 @@
-﻿using Microsoft.IdentityModel.Tokens;
+﻿//Implement JWT TokenService
+using Microsoft.IdentityModel.Tokens;
 using RaceDay_API.Models;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
